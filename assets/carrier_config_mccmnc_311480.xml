@@ -3,7 +3,7 @@
     <!-- Tracfone Vzw shows empty string as SPN -->
     <carrier_config gid1="BA01270000000000">
         <boolean name="carrier_name_override_bool" value="true" />
-        <string name="carrier_name_string"></string>
+        <string name="carrier_name_string">Tracfone</string>
     </carrier_config>
     <!-- XFINITY Mobile as operator name for Xfinity -->
     <carrier_config gid1="BA01450000000000">
